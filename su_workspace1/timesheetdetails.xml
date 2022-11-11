@@ -19,6 +19,8 @@
         <TASK_NAME></TASK_NAME>
         <HOURS></HOURS>
         <TOTAL_HOURS></TOTAL_HOURS>
+		<EMP_ID></EMP_ID>
+		<EMP_NUMBER></EMP_NUMBER>
       </ROW>
     </ROWSET>
   </REGION>
